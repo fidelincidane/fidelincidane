@@ -13,8 +13,8 @@ Soy Fidel , actualmente cursando programación web full stack :man_technologist:
 ## Habilidades
 
 - **Programación Web Full Stack**  :man_student: :computer:
-- **Automatización Industrial**
-- **PLCs**
+- **Automatización Industrial** 🤖
+- **PLCs** :computer:
 - **Electricidad** :electric_plug: :toolbox: :ladder: :screwdriver:
 - **Frío Industrial** :gear: :hammer_and_wrench: :snowflake:
 
