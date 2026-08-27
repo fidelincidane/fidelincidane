@@ -20,13 +20,14 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Backend:** Python · Django · SQL
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,6 +82,21 @@ Web responsiva para una academia: hero, cursos, blog, contacto y registro, const
 🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
 
 <img src="proyectos/academia.png" alt="Academia" width="420">
+
+### 🏭 Visor 3D MAPEX
+Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento. Desarrollado para resolver un problema real: identificar códigos de repuestos que no son visibles en la máquina física.
+
+🔗 [Repositorio](https://github.com/fidelincidane/automatismos-3d-viewer) · 🌍 [Demo en vivo](https://automatismos-3d.vercel.app/)
+
+**Escritorio:**
+
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_1_visor.png" alt="Visor 3D escritorio" width="450">
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_2_pieza.png" alt="Pieza seleccionada escritorio" width="450">
+
+**Móvil:**
+
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_1_visor.png" alt="Visor 3D móvil" width="220">
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_2_pieza.png" alt="Pieza seleccionada móvil" width="220">
 
 ---
 
