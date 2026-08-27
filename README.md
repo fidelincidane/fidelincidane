@@ -55,7 +55,7 @@ Me apasiona construir interfaces limpias, responsivas y funcionales, y documenta
 
 ## 🚀 Proyectos destacados
 
-### 🏭 Visor 3D MAPEX
+### 🏭 Automatismos 3D
 Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento. Desarrollado para resolver un problema real: identificar códigos de repuestos que no son visibles en la máquina física.
 
 🔗 [Repositorio](https://github.com/fidelincidane/automatismos-3d-viewer) · 🌍 [Demo en vivo](https://automatismos-3d.vercel.app/)
