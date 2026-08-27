@@ -48,6 +48,7 @@ Me apasiona construir interfaces limpias, responsivas y funcionales, y documenta
 ### 💪 Otras habilidades
 - **Automatización Industrial** 🤖
 - **Agentes de IA** 🧠
+- **Chatbots** 💬
 - **Automatizaciones n8n** ⚡
 - **PLCs** 💻
 - **Electricidad** 🔌 🧰 🪛
