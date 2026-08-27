@@ -55,6 +55,21 @@ Me apasiona construir interfaces limpias, responsivas y funcionales, y documenta
 
 ## 🚀 Proyectos destacados
 
+### 🏭 Visor 3D MAPEX
+Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento. Desarrollado para resolver un problema real: identificar códigos de repuestos que no son visibles en la máquina física.
+
+🔗 [Repositorio](https://github.com/fidelincidane/automatismos-3d-viewer) · 🌍 [Demo en vivo](https://automatismos-3d.vercel.app/)
+
+**Escritorio:**
+
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_1_visor.png" alt="Visor 3D escritorio" width="450">
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_2_pieza.png" alt="Pieza seleccionada escritorio" width="450">
+
+**Móvil:**
+
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_1_visor.png" alt="Visor 3D móvil" width="220">
+<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_2_pieza.png" alt="Pieza seleccionada móvil" width="220">
+
 ### 🧪 Rick and Morty Explorer
 Aplicación que consume **The Rick and Morty API**: búsqueda en tiempo real, filtros por estado, detalle con episodios, favoritos con `localStorage` y diseño responsivo.
 
@@ -82,21 +97,6 @@ Web responsiva para una academia: hero, cursos, blog, contacto y registro, const
 🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
 
 <img src="proyectos/academia.png" alt="Academia" width="420">
-
-### 🏭 Visor 3D MAPEX
-Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento. Desarrollado para resolver un problema real: identificar códigos de repuestos que no son visibles en la máquina física.
-
-🔗 [Repositorio](https://github.com/fidelincidane/automatismos-3d-viewer) · 🌍 [Demo en vivo](https://automatismos-3d.vercel.app/)
-
-**Escritorio:**
-
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_1_visor.png" alt="Visor 3D escritorio" width="450">
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_2_pieza.png" alt="Pieza seleccionada escritorio" width="450">
-
-**Móvil:**
-
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_1_visor.png" alt="Visor 3D móvil" width="220">
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_2_pieza.png" alt="Pieza seleccionada móvil" width="220">
 
 ---
 
