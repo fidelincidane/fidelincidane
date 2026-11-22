@@ -73,19 +73,19 @@ La aplicación está diseñada para funcionar en escritorio, tablet y móvil, ad
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-inicio.png) | ![Plano escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-plano.png) | ![Ficha 3D escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-3d-ficha.png) |
+| ![Inicio escritorio](./asset/captura%20de%20pantalla/escritorio-inicio.png) | ![Plano escritorio](./asset/captura%20de%20pantalla/escritorio-plano.png) | ![Ficha 3D escritorio](./asset/captura%20de%20pantalla/escritorio-3d-ficha.png) |
 
 ### Tablet
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio tablet](docs/screenshots/captura%20de%20pantalla/tablet-inicio.png) | ![Plano tablet](docs/screenshots/captura%20de%20pantalla/tablet-plano.png) | ![Ficha 3D tablet](docs/screenshots/captura%20de%20pantalla/tablet-3d-ficha.png) |
+| ![Inicio tablet](./asset/captura%20de%20pantalla/tablet-inicio.png) | ![Plano tablet](./asset/captura%20de%20pantalla/tablet-plano.png) | ![Ficha 3D tablet](./asset/captura%20de%20pantalla/tablet-3d-ficha.png) |
 
 ### Móvil
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio móvil](docs/screenshots/captura%20de%20pantalla/movil-inicio.png) | ![Plano móvil](docs/screenshots/captura%20de%20pantalla/movil-plano.png) | ![Ficha 3D móvil](docs/screenshots/captura%20de%20pantalla/movil-3d-ficha.png) |
+| ![Inicio móvil](./asset/captura%20de%20pantalla/movil-inicio.png) | ![Plano móvil](./asset/captura%20de%20pantalla/movil-plano.png) | ![Ficha 3D móvil](./asset/captura%20de%20pantalla/movil-3d-ficha.png) |
 
 🌍 **[Probar la aplicación](https://automatismos-3d.vercel.app/)**
 
