@@ -65,13 +65,29 @@ Gemelo digital interactivo de automatismos industriales. Visualización 3D con *
 
 **Escritorio:**
 
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_1_visor.png" alt="Visor 3D escritorio" width="450">
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/escritorio_2_pieza.png" alt="Pieza seleccionada escritorio" width="450">
+## Capturas de la aplicación
 
-**Móvil:**
+La aplicación está diseñada para funcionar en escritorio, tablet y móvil, adaptando la interfaz a cada dispositivo.
 
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_1_visor.png" alt="Visor 3D móvil" width="220">
-<img src="https://raw.githubusercontent.com/fidelincidane/automatismos-3d-viewer/main/assets/movil_2_pieza.png" alt="Pieza seleccionada móvil" width="220">
+### Escritorio
+
+| Inicio | Plano | Visor 3D |
+| --- | --- | --- |
+| ![Inicio escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-inicio.png) | ![Plano escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-plano.png) | ![Ficha 3D escritorio](docs/screenshots/captura%20de%20pantalla/escritorio-3d-ficha.png) |
+
+### Tablet
+
+| Inicio | Plano | Visor 3D |
+| --- | --- | --- |
+| ![Inicio tablet](docs/screenshots/captura%20de%20pantalla/tablet-inicio.png) | ![Plano tablet](docs/screenshots/captura%20de%20pantalla/tablet-plano.png) | ![Ficha 3D tablet](docs/screenshots/captura%20de%20pantalla/tablet-3d-ficha.png) |
+
+### Móvil
+
+| Inicio | Plano | Visor 3D |
+| --- | --- | --- |
+| ![Inicio móvil](docs/screenshots/captura%20de%20pantalla/movil-inicio.png) | ![Plano móvil](docs/screenshots/captura%20de%20pantalla/movil-plano.png) | ![Ficha 3D móvil](docs/screenshots/captura%20de%20pantalla/movil-3d-ficha.png) |
+
+🌍 **[Probar la aplicación](https://automatismos-3d.vercel.app/)**
 
 ### 🧪 Rick and Morty Explorer
 Aplicación que consume **The Rick and Morty API**: búsqueda en tiempo real, filtros por estado, detalle con episodios, favoritos con `localStorage` y diseño responsivo.
