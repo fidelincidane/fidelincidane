@@ -41,7 +41,7 @@
 
 ## 📖 Sobre mí
 
-Soy Fidel, desarrollador web **full stack** en formación en **CÓNQUER BLOCKS** 🧠, combinando mi experiencia en automatización industrial  con la programación de aplicaciones web modernas y buscando la mejor funcionalidad en los procesos productivos.
+Soy Fidel, desarrollador web **full stack** en formación en **CÓNQUER BLOCKS** 🧠, combinando mi experiencia en automatización industrial  con la programación de aplicaciones web modernas y buscando mejorar cada día.
 
 Me apasiona construir interfaces limpias, responsivas y funcionales, y documentar cada proyecto para que sea fácil de entender y reutilizar.
 
@@ -59,11 +59,9 @@ Me apasiona construir interfaces limpias, responsivas y funcionales, y documenta
 ## 🚀 Proyectos destacados
 
 ### 🏭 Automatismos 3D
-Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento. Desarrollado para resolver un problema real: identificar códigos de repuestos que no son visibles en la máquina física.
+Gemelo digital interactivo de automatismos industriales. Visualización 3D con **Three.js**, selección de piezas con datos en tiempo real de **Supabase/Mapex**, costes de reparación e historial de mantenimiento.
 
 🔗 [Repositorio](https://github.com/fidelincidane/automatismos-3d-viewer) · 🌍 [Demo en vivo](https://automatismos-3d.vercel.app/)
-
-**Escritorio:**
 
 ## Capturas de la aplicación
 
@@ -73,19 +71,19 @@ La aplicación está diseñada para funcionar en escritorio, tablet y móvil, ad
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio escritorio](./asset/captura%20de%20pantalla/escritorio-inicio.png) | ![Plano escritorio](./asset/captura%20de%20pantalla/escritorio-plano.png) | ![Ficha 3D escritorio](./asset/captura%20de%20pantalla/escritorio-3d-ficha.png) |
+| ![Inicio escritorio](assets/captura%20de%20pantalla/escritorio-inicio.png) | ![Plano escritorio](assets/captura%20de%20pantalla/escritorio-plano.png) | ![Ficha 3D escritorio](assets/captura%20de%20pantalla/escritorio-3d-ficha.png) |
 
 ### Tablet
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio tablet](./asset/captura%20de%20pantalla/tablet-inicio.png) | ![Plano tablet](./asset/captura%20de%20pantalla/tablet-plano.png) | ![Ficha 3D tablet](./asset/captura%20de%20pantalla/tablet-3d-ficha.png) |
+| ![Inicio tablet](assets/captura%20de%20pantalla/tablet-inicio.png) | ![Plano tablet](assets/captura%20de%20pantalla/tablet-plano.png) | ![Ficha 3D tablet](assets/captura%20de%20pantalla/tablet-3d-ficha.png) |
 
 ### Móvil
 
 | Inicio | Plano | Visor 3D |
 | --- | --- | --- |
-| ![Inicio móvil](./asset/captura%20de%20pantalla/movil-inicio.png) | ![Plano móvil](./asset/captura%20de%20pantalla/movil-plano.png) | ![Ficha 3D móvil](./asset/captura%20de%20pantalla/movil-3d-ficha.png) |
+| ![Inicio móvil](assets/captura%20de%20pantalla/movil-inicio.png) | ![Plano móvil](assets/captura%20de%20pantalla/movil-plano.png) | ![Ficha 3D móvil](assets/captura%20de%20pantalla/movil-3d-ficha.png) |
 
 🌍 **[Probar la aplicación](https://automatismos-3d.vercel.app/)**
 
